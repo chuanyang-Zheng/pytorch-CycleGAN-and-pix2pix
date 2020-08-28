@@ -4,13 +4,14 @@
 <br><br><br>
 
 #Chuanyang Zheng Feature-CycleGAN in PyTorch
+
 **Result**
 
 |Model|FID Score|
 |-----|------------------|
 CycleGAN 65.2247
-CycleGAn-Feature-Match 55.0382
-CycleGAN-Feature-Math-All 54.3172
+CycleGAn-Feature-Match|55.0382
+CycleGAN-Feature-Math-All|54.3172
 
 The baseline code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesungp), and supported by [Tongzhou Wang](https://github.com/SsnL).
 
