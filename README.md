@@ -10,7 +10,7 @@
 
 |Model|FID Score|
 |-----|------------------|
-CycleGAN 65.2247
+CycleGAN|65.2247
 CycleGAn-Feature-Match|55.0382
 CycleGAN-Feature-Math-All|54.3172
 
