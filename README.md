@@ -1,4 +1,4 @@
-# Chuanyang Zheng Feature-Match-CycleGAN in PyTorch
+# Feature-Match-CycleGAN in PyTorch
 
 
 **Result**
