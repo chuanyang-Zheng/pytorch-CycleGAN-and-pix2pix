@@ -1,7 +1,7 @@
 # Feature-Match-CycleGAN in PyTorch
 
 
-**Result**:Evaluate model on horse2zebra dataset. More experiments in the future.
+**Result**:Evaluate model on horse2zebra dataset(For FID, the lower, the better). More experiments in the future.
 |Model|FID|
 |-----|------------------|
 CycleGAN|65.2247
