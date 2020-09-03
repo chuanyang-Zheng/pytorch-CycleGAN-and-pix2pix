@@ -3,7 +3,7 @@
 
 **Result**:Evaluate Result. 
 
-horse2zebra dataset(For FID, the lower, the better).
+Horse2zebra dataset(For FID, the lower, the better).
 |Model|FID|
 |-----|------------------|
 CycleGAN|65.2247
