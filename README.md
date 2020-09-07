@@ -14,7 +14,7 @@ CityScapes dataset.
 |Model|Mean Pixel Accuracy|Mean Class Accuracy|Mean Class IoU|
 |-----|------------------|------------------|------------------|
 CycleGAN|69.6511%|20.5703%|15.8948%
-CycleGAn-Feature-Match|70.9314%|21.8399%|16.4418%
+CycleGAn-Feature-Match|70.8923%|23.1589%|17.4314%
 CycleGAN-Feature-Math-All|Still Working|Still Working|Still Working
 
 The baseline code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesungp), and supported by [Tongzhou Wang](https://github.com/SsnL).
