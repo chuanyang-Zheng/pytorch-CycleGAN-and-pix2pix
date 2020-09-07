@@ -15,7 +15,7 @@ CityScapes dataset.
 |-----|------------------|------------------|------------------|
 CycleGAN|69.6511%|20.5703%|15.8948%
 CycleGAn-Feature-Match|70.8923%|23.1589%|17.4314%
-CycleGAN-Feature-Math-All|Still Working|Still Working|Still Working
+CycleGAN-Feature-Math-All|65.9597%|23.3359%|15.6074%
 
 The baseline code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesungp), and supported by [Tongzhou Wang](https://github.com/SsnL).
 
